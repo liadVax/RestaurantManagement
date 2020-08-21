@@ -6,4 +6,4 @@ practiced:
    - classes
    - files
    - linked list
-   -spliting project to header and source code
+   - spliting project to header and source code
